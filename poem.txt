@@ -1,0 +1,7 @@
+The Rainbow Colors are::
+Orange
+Blue
+Red
+Green
+Violet
+These are the colour of my rainbow
