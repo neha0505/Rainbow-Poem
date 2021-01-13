@@ -1,8 +1,9 @@
-The Rainbow Colors are::
+The Rainbow & the unicorn branch Colors are::
 Orange
 Blue
 Red
 Pink
+Unicorn
 Green
 Yellow
 Violet
